@@ -1,30 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: October 23, 2023 
+##### Installing Laravel
+**Today's Progress**: To start fresh,  uninstalled existing Laravel along with PHP, composer and Laragon.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** I wanted to re-install Laravel without without third-party apps like Laragon or Xampp to get familiar with the installation process and more. it was a failure.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+<!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: October 24, 2023
+##### Installing Laravel II
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Giving it a last try.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: I really struggled with the installation. I tried with multiple PHP versions but there was always a problem with php.init file. at this point I got stressed and deiced to use Laragon, as my internet connection is not helpful these days which made the process even longer and more painful.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+<!-- **Link(s) to work**: [Calculator App](http://www.example.com) -->
 
 
-### Day 1: June 27, Monday
+### Day 3: October 25, Monday
+##### Laravel has been installed successfully!
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Installed Laravel and created few routes
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: Installed Laragon which is universal development helper, meaning, I can create Laravel with a click lol. so I made few routs and learned how basic, named and parameterized routes work. I got stuck for few minutes on the parameter routing but I got the hang of it.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Link to the project on github](https://github.com/fathidevs/100doc/commits/main)
+2. [Link to the commit](https://github.com/fathidevs/100doc/commit/5508c3c633473e17427acffb8e38a808a4c2f3d4)
