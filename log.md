@@ -18,7 +18,7 @@
 <!-- **Link(s) to work**: [Calculator App](http://www.example.com) -->
 
 
-### Day 3: October 25, Monday
+### Day 3: October 25, 
 ##### Laravel has been installed successfully!
 
 **Today's Progress**: Installed Laravel and created few routes
@@ -28,3 +28,30 @@
 **Link(s) to work**
 1. [Link to the project on github](https://github.com/fathidevs/100doc/commits/main)
 2. [Link to the commit](https://github.com/fathidevs/100doc/commit/5508c3c633473e17427acffb8e38a808a4c2f3d4)
+
+
+
+
+### Day 4 & 5: October 28, 
+##### Laravel Controller & Model
+
+**Today's Progress**: Created a controller and Model
+
+**Thoughts**: Today I made 2 controllers.
+1: controller to show a view,
+2- controller to show data dynamically from Model.
+I learned that I have to add "use path/to/file.php" to gain access
+to the properties of that file, in my case was to gain access to Model
+properties. and I learned that I have to use "url()"
+insteed of "route()" method if the route is not using the "named()" method in routes.
+
+at this point I can make view, controller, and Model and connect 
+them all together to show data dynamically. tomorrow will start to 
+learn how to interact with database.
+
+**Link(s) to work**
+1. [Link to the project on github](https://github.com/fathidevs/100doc/commits/main)
+2. [Link to the commit](https://github.com/fathidevs/100doc/commit/1fb9498889ea9a558c70bb728a7cc10c2f4bc5b0)
+
+
+
