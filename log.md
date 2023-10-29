@@ -55,3 +55,20 @@ learn how to interact with database.
 
 
 
+### Day 6 & 7: October 29, 
+##### Database & Seeder
+
+**Today's Progress**: Created a Database an seeder
+
+**Thoughts**: Today I made User table and pupolate it with data
+using seeder. I learned new commands, how to insert the data from Seeder
+class and migrate. I got stuck in here and there due syntax error.
+
+Now, I can insert data into table but not dynamically.
+
+**Link(s) to work**
+1. [Link to the project on github](https://github.com/fathidevs/100doc/commits/main)
+<!-- 2. [Link to the commit](https://github.com/fathidevs/100doc/commit/1fb9498889ea9a558c70bb728a7cc10c2f4bc5b0) -->
+
+
+
