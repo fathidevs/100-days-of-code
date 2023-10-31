@@ -72,3 +72,18 @@ Now, I can insert data into table but not dynamically.
 
 
 
+### Day 8: October 31, 
+##### Registration form
+
+**Today's Progress**: Add a user to database using form
+
+**Thoughts**: I used the same table made in day 6&7 and inserted a user dynamically, it was so fun today, I mostly did the tasks from day 1 until today in 1 day. I'm do less searching about the fundamental syntax in Laravel, and learned how to make simple form. I'm more familiar with the 'use' keyword
+
+Now, I can make dynamic registration form.
+
+**Link(s) to work**
+1. [Link to the project on github](https://github.com/fathidevs/100doc/commits/main)
+2. [Link to the commit](https://github.com/fathidevs/100doc/commit/fbea2127976ac72211b0096cf536780769b7e5ec)
+
+
+
